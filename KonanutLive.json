@@ -1,6 +1,6 @@
 {
   "isReturningHome":
-    { "value": true, "update": "12/01/2021 10:40" },
+    { "value": false, "update": "12/04/2021 19:34" },
   "isRescued":
-    { "value": true, "update": "12/04/2021 13:29" }
+    { "value": false, "update": "12/04/2021 19:34" }
 }
