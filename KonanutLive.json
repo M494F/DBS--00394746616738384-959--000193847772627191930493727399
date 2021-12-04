@@ -2,5 +2,19 @@
   "isReturningHome":
     { "value": false, "update": "12/04/2021 19:34" },
   "isRescued":
-    { "value": false, "update": "12/04/2021 19:34" }
+    { "value": false, "update": "12/04/2021 19:34" },
+  "returnHomePlan":
+  {
+    "hasStarted":
+    { "value": false, "update": "12/04/2021 19:34" },
+    "expectedEnd":
+    { "value": false, "update": "12/04/2021 20:34" },
+  },
+  "rescuePlan":
+  {
+    "hasStarted":
+    { "value": false, "update": "12/04/2021 19:34" },
+    "expectedEnd":
+    { "value": false, "update": "12/04/2021 20:34" },
+  }
 }
